@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Vida - Julieth Socarras</title>
+    <link rel="stylesheet" href="styleshdv.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container-header">
+            <img src="foto.png" alt="Foto de perfil" class="foto-perfil">
+            <div class="info-principal">
+                <h1>Julieth Socarras</h1>
+                <p>Emprendedora | Consultora de Belleza | Estudiante</p>
+
+                <div class="datos">
+                    <p>📧 julieth0815@gmail.com</p>
+                    <p>📱 +57 3175049362</p>
+                    <p>📍 San Jose del Guaviare, Colombia</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="card">
+            <h2>Perfil Profesional</h2>
+            <p>
+                Soy una persona creativa, responsable y apasionada por el área
+                comercial y de belleza. Tengo experiencia en atención al cliente,
+                ventas y creación de contenido digital. Me caracterizo por trabajar
+                en equipo, aprender rápidamente y brindar experiencias positivas
+                a los clientes.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>Experiencia Laboral</h2>
+
+            <div class="item">
+                <h3>Líder de negocioa</h3>
+                <span>2023 - Actualidad</span>
+                <p>
+                    Lidero un equipo de consultoras de belleza y cuidado personal, manejo de redes
+                    sociales, atención al cliente y estrategias de marketing digital.
+                </p>
+            </div>
+
+            <div class="item">
+                <h3>Emprendimiento Independiente</h3>
+                <span>2022 - Actualidad</span>
+                <p>
+                    Administración de pedidos, promoción de productos y creación
+                    de campañas publicitarias para clientes.
+                </p>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2>Formación Académica</h2>
+
+            <div class="item">
+                <h3>Estudios Universitarios</h3>
+                <span>En curso</span>
+                <p>
+                    Actualmente estoy cursando 5to semestre en Ingenieria Informatica en la universidad Eseit.
+                </p>
+            </div>
+        </section>
+
+        <section class="card habilidades">
+            <h2>Habilidades</h2>
+
+            <div class="habilidades-container">
+                <div>
+                    <h3>Técnicas</h3>
+                    <ul>
+                        <li>HTML y CSS</li>
+                        <li>Manejo de redes sociales</li>
+                        <li>Marketing digital</li>
+                        <li>Canva y diseño básico</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h3>Blandas</h3>
+                    <ul>
+                        <li>Trabajo en equipo</li>
+                        <li>Comunicación efectiva</li>
+                        <li>Creatividad</li>
+                        <li>Liderazgo</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2>Redes Profesionales</h2>
+
+            <div class="redes">
+                <a href="https://www.facebook.com/julie.socarras/" target="_blank">Facebook</a>
+                <a href="https://www.instagram.com/julie.socarras/" target="_blank">Instagram</a>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 - Hoja de Vida de Julie Socarras</p>
+    </footer>
+
+</body>
+</html>
